@@ -12,7 +12,7 @@ Patrick Applegate and Greg Garner contributed to Caitlin's code.  Kelsey Ruckert
 
 # Contents
 
-* `caitlin_thesis.pdf`: Caitlin's thesis
+* `caitlin_thesis.pdf`: Caitlin's thesis (posted here with her permission)
 * `abstract.md`: abstract for thesis
 * `CaitlinKupp_code_Appendix1.R`: Makes maps showing the progressive inundation of the island in question
 * `CaitlinKupp_code_Appendix2.R`: Makes a cumulative density figure and a table showing the fraction of the island in question that will be covered by various amounts of sea-level rise
@@ -27,7 +27,7 @@ These scripts were tested under R v3.3.0 (https://www.r-project.org/).  They als
 
 These scripts require a digital elevation model (DEM) of island topography and the surrounding bathymetry in order to work.  The figures in Caitlin's thesis are based on 1/3 arc-second DEMs for the Midway Islands and Oahu.  These DEMs were developed by NOAA.  You can download these DEMs from the following URLs.  
 
-Midway Islands: http://www.ngdc.noaa.gov/dem/squareCellGrid/download/4372
+Midway Islands: http://www.ngdc.noaa.gov/dem/squareCellGrid/download/4372  
 Oahu: http://www.ngdc.noaa.gov/dem/squareCellGrid/download/3410
 
 The unzipped files should be ESRI ArcGrid ASCII files.  You can find a description of this file format on Wikipedia at https://en.wikipedia.org/wiki/Esri_grid
